@@ -9,10 +9,10 @@ Each report documents a realistic failure scenario—from initial symptoms and l
 
 ## Lab Index
 
+
 | # | Incident / Lab Scenario | System | Key Skills & Tools | Report |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Emergency Mode Boot Failure** (`Corrupted /etc/fstab`) | Ubuntu KVM Guest | `systemd`, `journalctl`, `mount`, `/etc/fstab` recovery | [View Report](01-ubuntu-emergency-mode-fstab.md) | — | — | — |
-
+| **01** | **Emergency Mode Boot Failure** (`Corrupted /etc/fstab`) | Ubuntu KVM Guest | `systemd`, `journalctl`, `mount`, `/etc/fstab` recovery | [View Report](01-ubuntu-emergency-mode-fstab.md) |
 | **02** | **GRUB Bootloader Rescue** (`Corrupted grub.cfg`) | Ubuntu KVM Guest | `GRUB`, `vmlinuz`, `initrd`, `update-grub` | [View Report](02-ubuntu-grub-bootloader.md) |
 
 
